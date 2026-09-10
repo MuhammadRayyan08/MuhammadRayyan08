@@ -4,11 +4,13 @@
 Karachi, Pakistan | Cedar College (Class of 2027)
 
 [![SAT Math: 790](https://img.shields.io/badge/SAT_Math-790_%2F_800_(99th_Percentile)-0052CC?style=flat-square)]()
+[![Merit: Cedar Scholar](https://img.shields.io/badge/Merit-Cedar_Scholar-4B0082?style=flat-square)]()
+[![Academic: APSIS High Achiever](https://img.shields.io/badge/Academic-APSIS_O--Level_High_Achiever-800020?style=flat-square)]()
 [![Distinction: Hafiz--e--Quran](https://img.shields.io/badge/Distinction-Hafiz--e--Quran_(600+_Pages)-008080?style=flat-square)]()
 [![Award: SCINNOVA IX Shield](https://img.shields.io/badge/Award-Honorary_Commendation_Shield-gold?style=flat-square)]()
 [![Work: Softsols Pakistan](https://img.shields.io/badge/Work-Engineering_Contractor_%2F_Softsols-1E293B?style=flat-square)]()
 
-Systems architect and software developer building web platforms, offline desktop runtimes, clinical health software, and enterprise network infrastructure.
+Systems architect and software developer building web platforms, offline desktop runtimes, clinical health software, and enterprise network infrastructure. Cedar Scholar and APSIS O-Level High Achiever with quantitative focus in computer systems and network engineering.
 
 ---
 
