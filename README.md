@@ -9,15 +9,3 @@ Karachi, Pakistan
 [![APSIS High Achiever](https://img.shields.io/badge/APSIS_High_Achiever-800020?style=flat-square)]()
 
 Systems architect and software engineer designing high-concurrency web platforms, offline desktop runtimes, clinical diagnostic systems, and physical enterprise wireless infrastructure.
-
----
-
-## Technical Skills
-
-| Area | Technologies |
-| :--- | :--- |
-| Languages | TypeScript, JavaScript (ES6+), Python, SQL, HTML5, CSS3, C/C++ (Basics) |
-| Web & Backend | Next.js (Turbopack, App Router), React 19/18, Node.js, Express 5, Tailwind CSS |
-| Mobile & Desktop | React Native (Expo), Electron (IPC Bus), Android Biometrics, Windows NSIS |
-| Infrastructure & RF | Ruckus Unleashed (802.11ax / Wi-Fi 6), BeamFlex+, Multi-Mode Fibre, 802.1Q VLANs |
-| Databases & Cloud | MongoDB, PostgreSQL, Prisma, Cloudinary, REST APIs, GraphQL |
