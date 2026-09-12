@@ -8,4 +8,4 @@ Karachi, Pakistan
 [![Cedar Scholar](https://img.shields.io/badge/Cedar_Scholar-4B0082?style=flat-square)]()
 [![APSIS High Achiever](https://img.shields.io/badge/APSIS_High_Achiever-800020?style=flat-square)]()
 
-Systems architect and software engineer designing high-concurrency web platforms, offline desktop runtimes, clinical diagnostic systems, and physical enterprise wireless infrastructure.
+Systems architect and software engineer building web applications, offline desktop tools, clinical systems, and enterprise wireless infrastructure.
